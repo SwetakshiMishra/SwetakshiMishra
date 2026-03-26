@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Swetakshi 👋</h1>
 
 <p align="center">
-💻 First-year student • Future Cloud & DevOps Engineer
+💻 First-year student 
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SwetakshiMishra&color=0e75b6&style=flat" />
 </p>
 
----
+<br>
 
 ## 🛠️ Tech Stack
 <p align="center">
-💻 C++ &nbsp; • &nbsp; 🌐 HTML & CSS &nbsp; • &nbsp; ⚡ JavaScript (Beginner) &nbsp; • &nbsp; 🐍 Python (Beginner)
+💻 C++ &nbsp; • &nbsp; 🌐 HTML & CSS &nbsp; • &nbsp; ⚡ JavaScript &nbsp; • &nbsp; 🐍 Python
 </p>
 
----
+<br>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -23,16 +23,16 @@
   <img src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
+<br>
 
 ## 🚀 Current Focus
 <p align="center">
-🔹 Building C++ Problem Solver Toolkit <br>
-🔹 Creating Personal Portfolio Website <br>
-🔹 Learning backend & DevOps fundamentals
+Building a C++ Problem Solver Toolkit <br>
+Designing my Personal Portfolio Website <br>
+Learning backend & DevOps fundamentals
 </p>
 
----
+<br>
 
 <p align="center">
 ✨ <i>Building systems step by step.</i>
