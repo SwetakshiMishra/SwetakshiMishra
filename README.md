@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Swetakshi 👋</h1>
 
 <p align="center">
-💻 First-year student • Future Cloud & DevOps Engineer  
+💻 First-year student • Future Cloud & DevOps Engineer
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SwetakshiMishra&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=SwetakshiMishra&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -19,24 +19,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🚀 Current Focus
 <p align="center">
-🔹 Building C++ Problem Solver Toolkit  
-🔹 Creating Personal Portfolio Website  
-🔹 Learning backend & DevOps fundamentals  
-</p>
-
----
-
-## 🌱 Growth Mindset
-<p align="center">
-Improving problem-solving skills • Writing cleaner code • Staying consistent  
+🔹 Building C++ Problem Solver Toolkit <br>
+🔹 Creating Personal Portfolio Website <br>
+🔹 Learning backend & DevOps fundamentals
 </p>
 
 ---
