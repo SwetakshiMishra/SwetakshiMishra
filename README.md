@@ -1,33 +1,46 @@
-# Hi, I'm Swetakshi 👋
+<h1 align="center">Hi, I'm Swetakshi 👋</h1>
 
-💻 First-year student
+<p align="center">
+💻 First-year student • Future Cloud & DevOps Engineer  
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SwetakshiMishra&color=blue)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SwetakshiMishra&color=blue" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack (Learning Phase)
-- 💻 C++  
-- 🌐 HTML, CSS  
-- ⚡ JavaScript (beginner)  
----
-
-## 📌 Current Projects
-- 🔹 C++ Problem Solver Toolkit (in progress)  
-- 🔹 Personal Portfolio Website (coming soon)  
+## 🛠️ Tech Stack
+<p align="center">
+💻 C++ &nbsp; • &nbsp; 🌐 HTML & CSS &nbsp; • &nbsp; ⚡ JavaScript (Beginner) &nbsp; • &nbsp; 🐍 Python (Beginner)
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 🌱 What I'm Working On
-- Improving problem-solving skills  
-- Learning backend & DevOps fundamentals  
-- Building consistent GitHub activity  
+## 🚀 Current Focus
+<p align="center">
+🔹 Building C++ Problem Solver Toolkit  
+🔹 Creating Personal Portfolio Website  
+🔹 Learning backend & DevOps fundamentals  
+</p>
 
+---
+
+## 🌱 Growth Mindset
+<p align="center">
+Improving problem-solving skills • Writing cleaner code • Staying consistent  
+</p>
+
+---
+
+<p align="center">
+✨ <i>Building systems step by step.</i>
+</p>
