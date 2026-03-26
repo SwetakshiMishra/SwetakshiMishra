@@ -1,21 +1,33 @@
-## Hi there 👋
+# Hi, I'm Swetakshi 👋
 
-💻 First-year student 
+💻 First-year student
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=SwetakshiMishra&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SwetakshiMishra)
-<!--
-**SwetakshiMishra/SwetakshiMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack (Learning Phase)
+- 💻 C++  
+- 🌐 HTML, CSS  
+- ⚡ JavaScript (beginner)  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects
+- 🔹 C++ Problem Solver Toolkit (in progress)  
+- 🔹 Personal Portfolio Website (coming soon)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight)
+
+---
+
+## 🌱 What I'm Working On
+- Improving problem-solving skills  
+- Learning backend & DevOps fundamentals  
+- Building consistent GitHub activity  
+
