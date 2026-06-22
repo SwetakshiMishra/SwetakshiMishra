@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  💻 C++ &nbsp; | &nbsp; 🌐 HTML & CSS &nbsp; | &nbsp; ⚡ JavaScript &nbsp; | &nbsp; 🐍 Python
+  💻 C++ &nbsp; | &nbsp; 🌐 HTML & CSS &nbsp; | &nbsp; 🐍 Python
 </p>
 
 ---
