@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Swetakshi 👋</h1>
 
 <p align="center">
-💻 First-year student 
+💻 Second-year student 
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <img src="https://www.cleanpng.com/png-c-logo-hexagon-blue-modern-design-6su9h7/"/>
   💻 C++ &nbsp; | &nbsp; 🌐 HTML & CSS &nbsp; | &nbsp; 🐍 Python
 </p>
 
