@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,fastapi,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,fastapi,github,vscode,perline=5" />
 </p>
 
 <p align="center">
@@ -34,4 +34,3 @@
 
 * 💻 Building Projects
 * 📚 Solving DSA Problems
-* 🤝 Open Source Contributions
