@@ -4,52 +4,34 @@
 💻 Second-year student 
 </p>
 
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwetakshiMishra&color=8a2be2&style=flat" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,fastapi,github,vscode&perline=5" />
 </p>
 
-🛠️ Tech Stack
-Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=light" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+---
 
-Frontend
+## 📊 GitHub Stats
 
-<p> <img src="https://skillicons.dev/icons?i=html,css&theme=light" /> </p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetakshiMishra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Backend
-
-<p> <img src="https://skillicons.dev/icons?i=fastapi&theme=light" /> </p>
-
-Tools
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" /> </p>
-
-📊 GitHub Stats
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetakshiMishra&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight&hide_border=true" /> </p>
-
-🚀 Current Focus
-📚 Strengthening Data Structures & Algorithms
-⚡ Backend Development with FastAPI
-🗄️ SQL & Database Design
-🌐 Full-Stack Development
-🤝 Open Source Contributions
-📫 Connect With Me
-
-<p> <a href="https://github.com/SwetakshiMishra"> <img src="https://skillicons.dev/icons?i=github" /> </a> <!-- Add your LinkedIn below when available --> <!-- <a href="https://linkedin.com/in/your-profile"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> --> </p>
-
-<p align="center"> <i>Always learning, always building.</i> 🚀 </p>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🚀 Current Focus
-<p align="center">
-  🔹 C++ Problem Solver Toolkit <br>
-  🔹 Personal Portfolio Website <br>
-  🔹 Backend & DevOps fundamentals
-</p>
 
----
+* 💻 Building Projects
+* 📚 Solving DSA Problems
+* 🤝 Open Source Contributions
