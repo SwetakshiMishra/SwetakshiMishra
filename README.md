@@ -1,33 +1,169 @@
-<h1 align="center">Hi, I'm Swetakshi 👋</h1>
+# Hi, I'm Swetakshi 👋
 
 <p align="center">
-💻 Second-year student 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+Engineering;Building+APIs+%26+Projects;Learning+one+commit+at+a+time." />
 </p>
 
+---
 
-## 🛠️ Tech Stack
+```yaml
+user:
+  name: Swetakshi Mishra
+  role: Computer Science Student
+  focus: Backend Engineering
+  status: 🟢 Building
+```
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,fastapi,github,vscode,postgres&perline=5" /> </p>
+> Turning ideas into projects and bugs into lessons.
+
+---
+
+## 🖥️ System Overview
+
+```text
+╭────────────────────────────╮
+│        swetakshi.exe       │
+├────────────────────────────┤
+│ Backend       🟢 Running   │
+│ DSA           🟢 Running   │
+│ Open Source   🟢 Active    │
+│ Sleep         ⚠️ Pending   │
+╰────────────────────────────╯
+```
+
+---
+
+## ⚙️ Tech Stack
+
+```text
+Languages
+├── Python
+├── C++
+├── SQL
+├── HTML
+├── CSS
+└── JavaScript (Basic)
+
+Backend
+├── FastAPI
+├── REST APIs
+└── Pydantic
+
+Database
+└── PostgreSQL
+
+Tools
+├── Git
+├── GitHub
+├── VS Code
+└── Postman
+```
+
+---
+
+## 🔄 Current Process
+
+```text
+Building
+    ↓
+FastAPI Applications
+
+Learning
+    ↓
+Alembic
+JWT Authentication
+Database Design
+
+Practicing
+    ↓
+DSA
+```
+
+---
+
+<details>
+<summary>📂 Learning Roadmap</summary>
+
+<br>
+
+```text
+Python
+  │
+  ├── SQL                 ✓
+  ├── PostgreSQL          ✓
+  ├── FastAPI             ✓
+  ├── REST APIs           ✓
+  ├── Pydantic            ✓
+  │
+  ├── Alembic             ●
+  ├── JWT                 ○
+  ├── Redis               ○
+  ├── Docker              ○
+  ├── Testing             ○
+  └── Deployment          ○
+```
+
+```text
+✓ Completed
+● Currently Learning
+○ Next
+```
+
+</details>
+
+---
+
+## 📜 Development Logs
+
+<details>
+<summary>View logs</summary>
+
+```log
+[INFO] Started backend development journey.
+
+[INFO] Built REST APIs.
+
+[INFO] Connected applications with databases.
+
+[INFO] Exploring database migrations.
+
+[WARN] Found another bug.
+
+[SUCCESS] Learned something new.
+```
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=SwetakshiMishra&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&hide_border=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetakshiMishra&layout=compact&hide_border=true&theme=github_dark" height="160"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🔌 Endpoints
 
-* 💻 Building Projects
-* 📚 Solving DSA Problems
+```yaml
+linkedin: https://www.linkedin.com/in/swetakshi-mishra
+portfolio: coming-soon
+email: swetakshimishra@gmail.com
+```
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2> <p align="center"> <a href="https://github.com/SwetakshiMishra"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/swetakshi-mishra"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:swetakshimishra@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+```console
+$ git status
 
-<p align="center"> <a href="https://github.com/SwetakshiMishra">GitHub</a> • <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> • <a href="mailto:YOUR_EMAIL@example.com">Email</a> </p>
+On branch main
+
+Changes:
++ new skills
++ new concepts
++ new lessons
+
+Everything committed.
+```
