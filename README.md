@@ -135,16 +135,6 @@ Python
 </details>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwetakshiMishra&show_icons=true&hide_border=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetakshiMishra&layout=compact&hide_border=true&theme=github_dark" height="160"/>
-</p>
-
----
-
 ## 🔌 Endpoints
 
 ```yaml
